@@ -1,0 +1,110 @@
+﻿Aerosani
+Airship
+All-terrain vehicle
+Amphibious all-terrain vehicle
+Amphibious vehicle
+Autogyro
+Automobile
+Auto rickshaw
+Balloon
+Bathyscaphe
+Bicycle
+Blimp
+Boat
+Bus
+Cable car
+Catamaran
+Canoe
+Coach
+Coach (bus)
+Coach (carriage)
+Cycle rickshaw
+Dandy horse
+Deep Submergence Vehicle
+Diving bell
+Diving chamber
+Dog sled
+Draisine
+Electric vehicle
+Fixed-wing aircraft
+Golf cart
+Ground effect vehicle
+Glider aircraft
+Handcar
+Hang glider
+Hopper
+Helicopter
+Hovercraft
+Hydrofoil
+Ice Skates
+Jet aircraft
+Jet pack
+jet ski
+Kayak
+Kick scooter
+Land yacht
+Launch escape capsule
+Locomotive
+Maglev
+Minibus
+Minivan
+Monorail
+Monowheel
+Moped
+Motorcycle
+Omni Directional Vehicle
+Ornithopter
+Passenger car
+Rickshaw
+Pedalo
+Pogo Stick
+Powered parachute
+Quadracycle
+Race car
+Road train
+Rocket
+Rocket sled
+Rover
+Screw-propelled vehicle
+Sea tractor
+Zipline
+Aircraft
+Wingpack
+Unmanned aerial vehicle
+Landcraft
+Land vehicle
+Scooter
+motorcycle
+Segway Personal Transporter
+Single-track vehicle
+Skateboard
+Skis
+Sled
+Snowboard
+Snowmobile
+Space Hopper
+Sports car
+Steam car
+Suv
+Tank
+Tractor
+Traction engine
+Train
+Tram
+Tricycle
+Trolleybus
+Truck
+Unicycle
+Van
+Velocipede
+Velomobile
+Wagon
+Wheelbarrow
+Watercraft
+Watercraft
+Sailboat
+Ship
+Submarine
+Submersible
+Surfboard
+Yacht

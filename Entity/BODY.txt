@@ -1,0 +1,129 @@
+﻿Musculoskeletal system
+Musculoskeletal
+Human skeleton
+Joints
+Ligaments
+Muscular system
+Muscular
+Tendons
+Digestive system
+Digestive
+Mouth
+Teeth
+Tongue
+Salivary glands
+Parotid glands
+Submandibular glands
+Sublingual glands
+Pharynx
+Oesophagus
+Stomach
+Small intestine
+Duodenum
+Jejunum
+Ileum
+Large intestine
+Liver
+Gallbladder
+Mesentery
+Pancreas
+Respiratory system
+Respiratory
+Nasal cavity
+Pharynx
+Larynx
+Trachea
+Bronchi
+Lungs
+Diaphragm
+Urinary system
+Urinary
+Kidneys
+Ureters
+Bladder
+Urethra
+Reproductive organs
+Internal reproductive organs
+Ovaries
+Fallopian tubes
+Uterus
+Vagina
+External reproductive organs
+Vulva
+Clitoris
+Placenta
+Pituitary gland
+Pineal gland
+Thyroid gland
+Parathyroid glands
+Adrenal glands
+Pancreas
+Testes
+Epididymis
+Vas deferens
+Seminal vesicles
+Prostate
+Bulbourethral glands
+Penis
+Scrotum
+Endocrine glands
+Circulatory system
+Circulatory
+The heart
+Arteries
+Veins
+Capillaries
+Lymphatic system
+Lymphatic
+Lymphatic vessel
+Lymph node
+Bone marrow
+Thymus
+Spleen
+Gut-associated lymphoid tissue
+Tonsils
+Nervous system
+Nervous
+Central nervous system
+Central nervous
+The brain
+Cerebrum
+Cerebral hemispheres
+Diencephalon
+The brainstem
+Midbrain
+Pons
+Medulla oblongata
+Cerebellum
+The spinal cord
+The ventricular system
+The ventricular
+Choroid plexus
+Peripheral nervous system
+Peripheral nervous
+Eye
+Cornea
+Iris
+Ciliary body
+Lens
+Retina
+Ear
+Outer ear
+Earlobe
+Eardrum
+Middle ear
+Ossicles
+Inner ear
+Cochlea
+Vestibule of the ear
+Semicircular canals
+Olfactory epithelium
+Tongue
+Taste buds
+Integumentary system
+Integumentary
+Mammary glands
+Laboratory-grown organ
+Skin
+Subcutaneous tissue
+Immune system

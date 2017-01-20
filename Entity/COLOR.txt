@@ -1,0 +1,100 @@
+﻿Black
+White
+Grey
+Slate
+Silver
+Light Grey
+Ghost White
+Snow
+Red
+Blue
+Yellow
+Green
+Orange
+Violet
+Vermilion
+Chestnut
+Burnt Umber
+Bistre
+Brown
+Cinnamon
+Sepia
+Copper
+Carrot
+Chocolate
+Russet
+Marigold
+Bronze
+Rust
+Burnt Sienna
+Mustard
+Tangerine
+Amber
+Apricot
+Terracotta
+Peach
+Salmon Pink
+Coral
+Brass
+Ochre
+Old Gold
+Khaki
+Tan
+Beige
+Ivory
+Flax
+Corn
+Pure Gold
+Saffron
+Lemon light
+Chartreuse
+Lime
+Jade
+Forest Green
+Camouflage Green
+Malachite
+Olive
+Sea Green
+Emerald Green
+Celadon
+Viridian
+Teal
+Aquamarine
+Cyan
+Azure
+Cerulean Blue
+Turquoise
+Cobalt
+Cornflower Blue
+Denim Blue
+Steel Blue
+Cadet Blue
+Powder Blue
+Pale Blue
+Prussian Blue
+Royal Blue
+Sky Blue
+Sapphire Blue
+Navy Blue
+Ultramarine
+Purple
+Indigo
+Amethyst
+Lavender
+Plum
+Lilac
+Mauve
+Pink
+Puce
+Rose
+Cerise
+Magenta
+Amaranth
+Alizarin
+Fuchsia
+Cardinal
+Burgundy
+Carmine
+Maroon
+Crimson
+Scarlet
